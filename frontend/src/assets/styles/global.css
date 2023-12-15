@@ -1,0 +1,15 @@
+body {
+    margin: 0!important;
+    padding: 0!important;
+    width: 100%!important;
+}
+
+a {
+    color: inherit; /* Унаследовать цвет текста от родительского элемента */
+    text-decoration: none; /* Убрать подчеркивание ссылок */
+}
+
+a:hover {
+    text-decoration: none; /* Убрать подчеркивание при наведении */
+    color: inherit; /* Унаследовать цвет текста от родительского элемента при наведении */
+}
