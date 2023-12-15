@@ -31,7 +31,7 @@
 Приложение состоит из двух основных частей: Игры и Административной секции.
 
 Через административную секцию можно создавать темы -> подтемы -> вопросы к темам.
-*(Примечание: Этот шаг необязателен)*
+*(Поле Примечание: необязателен)*
 
 ### Скриншоты:
 ![Главы](img/chapters.png)
@@ -75,7 +75,7 @@ The Frontend and Backend communicate on port 5000 independently of each other. I
 The application consists of two main parts: the Game and the Administrative section.
 
 Through the administrative section, create topics -> subtopics -> questions for the topics.
-*(Note: This step is optional)*
+*(Fields Note: is optional)*
 
 ### Screenshots:
 ![Chapters](img/chapters.png)
